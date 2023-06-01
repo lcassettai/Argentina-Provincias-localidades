@@ -1,0 +1,25 @@
+id,categoria,nombre,nombre_completo,centroide_lat,centroide_lon
+54,Provincia,Misiones,Provincia de Misiones,-268.753.965.086.829,-546.516.966.230.371
+74,Provincia,San Luis,Provincia de San Luis,-337.577.257.449.137,-660.281.298.195.836
+70,Provincia,San Juan,Provincia de San Juan,-308.653.679.979.618,-688.894.908.486.844
+30,Provincia,Entre Ríos,Provincia de Entre Ríos,-320.588.735.436.448,-592.014.475.514.635
+78,Provincia,Santa Cruz,Provincia de Santa Cruz,-488.154.851.827.063,-699.557.621.671.973
+62,Provincia,Río Negro,Provincia de Río Negro,-404.057.957.178.801,-67.229.329.893.694
+26,Provincia,Chubut,Provincia del Chubut,-437.886.233.529.878,-685.267.593.943.345
+14,Provincia,Córdoba,Provincia de Córdoba,-32.142.932.663.607,-638.017.532.741.662
+50,Provincia,Mendoza,Provincia de Mendoza,-346.298.873.058.957,-685.831.228.183.798
+46,Provincia,La Rioja,Provincia de La Rioja,-29.685.776.298.315,-671.817.359.694.432
+10,Provincia,Catamarca,Provincia de Catamarca,-273.358.332.810.217,-669.476.824.299.928
+42,Provincia,La Pampa,Provincia de La Pampa,-371.315.537.735.949,-654.466.546.606.951
+86,Provincia,Santiago del Estero,Provincia de Santiago del Estero,-277.824.116.550.944,-632.523.866.568.588
+18,Provincia,Corrientes,Provincia de Corrientes,-287.743.047.046.407,-578.012.191.977.913
+82,Provincia,Santa Fe,Provincia de Santa Fe,-307.069.271.588.117,-609.498.369.430.241
+90,Provincia,Tucumán,Provincia de Tucumán,-269.478.001.830.786,-653.647.579.441.481
+58,Provincia,Neuquén,Provincia del Neuquén,-386.417.575.824.599,-701.185.705.180.601
+66,Provincia,Salta,Provincia de Salta,-242.991.344.492.002,-648.144.629.600.627
+22,Provincia,Chaco,Provincia del Chaco,-263.864.309.061.226,-607.658.307.438.603
+34,Provincia,Formosa,Provincia de Formosa,-24.894.972.594.871,-599.324.405.800.872
+38,Provincia,Jujuy,Provincia de Jujuy,-233.200.784.211.351,-657.642.522.180.337
+2,Ciudad Autónoma,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,-346.144.934.119.689,-584.458.563.545.429
+6,Provincia,Buenos Aires,Provincia de Buenos Aires,-366.769.415.180.527,-605.588.319.815.719
+94,Provincia,"Tierra del Fuego, Antártida e Islas del Atlántico Sur","Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",-8.252.151.781.221,-507.427.486.049.785

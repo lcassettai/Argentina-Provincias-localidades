@@ -1,0 +1,530 @@
+id,nombre,nombre_completo,provincia_id,centroide_lon,centroide_lat
+6412,José C. Paz,Partido de José C. Paz,6,-587.776.710.941.743,-345.118.758.903.445
+22112,O'Higgins,Departamento O'Higgins,22,-606.806.781.684.245,-272.575.511.794.731
+42147,Trenel,Departamento Trenel,42,-642.143.766.258.097,-356.318.750.123.361
+6014,Adolfo Gonzales Chaves,Partido de Adolfo Gonzales Chaves,6,-602.490.776.485.677,-379.642.254.145.303
+6315,General Juan Madariaga,Partido de General Juan Madariaga,6,-572.307.866.316.173,-371.532.136.536.641
+6791,Tandil,Partido de Tandil,6,-59.181.805.577.778,-373.356.554.181.577
+86014,Alberdi,Departamento Alberdi,86,-627.274.743.405.239,-265.210.512.908.819
+42119,Quemú Quemú,Departamento Quemú Quemú,42,-63.663.736.169.201,-361.306.397.823.227
+42021,Capital,Departamento Capital,42,-64.198.128.304.727,-364.980.625.981.793
+86154,Rivadavia,Departamento Rivadavia,86,-622.804.530.355.771,-300.205.633.751.884
+86098,Juan F. Ibarra,Departamento Juan F. Ibarra,86,-625.440.138.783.592,-280.394.963.430.537
+86077,General Taboada,Departamento General Taboada,86,-623.388.258.455.986,-285.682.847.400.822
+50042,La Paz,Departamento La Paz,50,-672.475.409.227.538,-337.114.684.971.791
+6196,Coronel Pringles,Partido de Coronel Pringles,6,-612.646.589.620.305,-381.477.437.843.902
+6805,Tigre,Partido de Tigre,6,-58.599.453.988.125,-343.815.893.993.371
+42028,Catriló,Departamento Catriló,42,-636.648.708.546.651,-365.816.678.881.383
+42007,Atreucó,Departamento Atreucó,42,-637.788.855.690.903,-370.324.956.718.132
+42070,Guatraché,Departamento Guatraché,42,-637.813.086.707.571,-374.836.474.005.921
+42154,Utracán,Departamento Utracán,42,-650.828.316.677.234,-373.338.794.806.846
+42098,Loventué,Departamento Loventué,42,-655.329.694.083.622,-364.787.683.011.276
+42077,Hucal,Departamento Hucal,42,-639.544.827.643.711,-379.792.340.442.423
+42049,Chalileo,Departamento Chalileo,42,-665.727.556.640.635,-363.954.095.124.282
+42063,Chical Co,Departamento Chical Co,42,-676.953.932.639.542,-363.978.994.715.573
+18049,Esquina,Departamento Esquina,18,-592.414.216.570.581,-299.854.770.547.953
+18175,Sauce,Departamento Sauce,18,-587.950.373.826.119,-299.995.445.616.697
+18035,Curuzu Cuatia,Departamento Curuzu Cuatia,18,-583.248.439.252.656,-296.955.178.131.115
+18147,San Martín,Departamento San Martín,18,-569.315.923.506.787,-288.289.705.275.493
+26077,Rawson,Departamento Rawson,26,-650.757.246.833.498,-431.372.229.709.113
+18105,Mercedes,Departamento Mercedes,18,-57.818.389.954.722,-290.645.100.901.984
+18119,Paso de los Libres,Departamento Paso de los Libres,18,-572.996.337.303.242,-295.936.355.856.024
+18056,General Alvear,Departamento General Alvear,18,-565.115.297.991.712,-287.751.848.033.313
+86063,Choya,Departamento Choya,86,-647.638.996.164.731,-287.536.335.933.641
+50112,Santa Rosa,Departamento Santa Rosa,50,-679.636.620.466.005,-336.177.946.030.973
+50084,Rivadavia,Departamento Rivadavia,50,-686.121.759.957.283,-33.419.707.109.754
+6819,Tornquist,Partido de Tornquist,6,-622.904.249.803.924,-38.255.785.801.668
+46035,Chamical,Departamento Chamical,46,-659.562.869.452.052,-301.677.065.304.375
+46007,Arauco,Departamento Arauco,46,-667.191.515.033.817,-285.330.735.278.082
+6126,Campana,Partido de Campana,6,-588.830.222.693.056,-341.381.957.287.934
+10098,Santa Rosa,Departamento Santa Rosa,10,-653.349.462.642.257,-280.814.710.804.867
+10070,La Paz,Departamento La Paz,10,-651.919.504.325.436,-293.952.000.610.314
+78042,Magallanes,Departamento Magallanes,78,-684.681.621.286.703,-488.383.418.225.325
+78007,Corpen Aike,Departamento Corpen Aike,78,-694.469.507.225.498,-499.474.837.007.267
+62028,Conesa,Departamento Conesa,62,-643.048.926.460.226,-401.487.161.833.477
+22154,Sargento Cabral,Departamento Sargento Cabral,22,-595.196.519.224.863,-268.016.874.124.461
+22070,Independencia,Departamento Independencia,22,-607.570.241.668.236,-26.736.996.206.931
+22098,Mayor Luis J. Fontana,Departamento Mayor Luis J. Fontana,22,-606.581.451.476.891,-277.436.812.830.101
+22043,Fray Justo Santa María de Oro,Departamento Fray Justo Santa María de Oro,22,-61.300.959.824.592,-278.662.498.172.761
+22126,1° de Mayo,Departamento 1° de Mayo,22,-589.595.089.153.944,-271.691.720.457.957
+74007,Ayacucho,Departamento Ayacucho,74,-665.422.509.844.147,-321.656.565.638.277
+6511,Maipú,Partido de Maipú,6,-57.586.173.153.195,-368.865.728.387.855
+22036,12 de octubre,Departamento 12 de Octubre,22,-614.747.691.940.114,-273.362.384.898.477
+14147,Santa María,Departamento Santa María,14,-643.070.593.086.884,-317.112.016.051.317
+14126,San Alberto,Departamento San Alberto,14,-651.564.069.990.554,-31.707.791.961.138
+14119,Río Segundo,Departamento Río Segundo,14,-634.769.207.987.931,-317.330.269.369.319
+14140,San Justo,Departamento San Justo,14,-625.260.292.405.918,-312.393.990.103.815
+14182,Unión,Departamento Unión,14,-627.914.258.058.015,-328.784.545.187.661
+14161,Tercero Arriba,Departamento Tercero Arriba,14,-637.792.479.671.775,-322.877.127.172.928
+66035,Cerrillos,Departamento Cerrillos,66,-654.038.423.380.142,-249.885.518.325.631
+14098,Río Cuarto,Departamento Río Cuarto,14,-64.494.180.483.748,-333.308.032.176.015
+50126,Tupungato,Departamento Tupungato,50,-693.019.667.535.127,-332.915.070.191.465
+34042,Pilagás,Departamento Pilagás,34,-586.616.277.482.245,-251.053.773.070.169
+34021,Laishí,Departamento Laishí,34,-585.654.369.092.882,-26.467.587.999.102
+34056,Pirané,Departamento Pirané,34,-591.592.573.575.224,-257.672.893.097.833
+22063,General Güemes,Departamento General Güemes,22,-61.337.579.887.251,-252.137.925.689.732
+62056,Ñorquinco,Departamento Ñorquinco,62,-704.011.139.544.739,-417.398.257.356.123
+6007,Adolfo Alsina,Partido de Adolfo Alsina,6,-630.560.072.843.652,-371.963.357.906.582
+6651,Puán,Partido de Puán,6,-630.577.463.401.906,-380.746.044.477.032
+6875,Villarino,Partido de Villarino,6,-627.268.024.308.429,-391.296.648.457.138
+14084,Presidente Roque Sáenz Peña,Departamento Presidente Roque Sáenz Peña,14,-634.187.744.697.841,-341.401.111.180.237
+6392,General Villegas,Partido de General Villegas,6,-629.535.454.567.251,-347.687.371.057.529
+14035,General Roca,Departamento General Roca,14,-643.787.603.319.835,-346.170.744.283.348
+50014,General Alvear,Departamento General Alvear,50,-670.804.473.289.428,-352.178.364.156.832
+86147,Río Hondo,Departamento Río Hondo,86,-647.601.873.654.679,-274.854.057.246.231
+6770,San Pedro,Partido de San Pedro,6,-597.825.917.634.816,-337.819.425.849.294
+66133,Rivadavia,Departamento Rivadavia,66,-628.303.776.832.343,-235.128.446.678.353
+66147,Rosario de Lerma,Departamento Rosario de Lerma,66,-658.530.871.719.889,-245.462.867.797.822
+38035,Ledesma,Departamento Ledesma,38,-648.287.565.421.131,-237.855.349.092.159
+18021,Capital,Departamento Capital,18,-587.627.061.875.969,-27.522.187.514.513
+54028,Capital,Departamento Capital,54,-55.856.845.031.149,-275.507.848.284.827
+54063,Iguazú,Departamento Iguazú,54,-544.004.185.891.377,-258.747.354.912.768
+54091,Oberá,Departamento Oberá,54,-550.712.221.116.124,-274.763.636.003.081
+54098,San Ignacio,Departamento San Ignacio,54,-553.392.901.890.006,-271.765.939.564.162
+46014,Capital,Departamento Capital,46,-663.525.089.002.799,-294.604.898.579.358
+14112,Río Seco,Departamento Río Seco,14,-632.238.214.757.827,-30.032.189.401.961
+62014,Avellaneda,Departamento Avellaneda,62,-662.062.591.058.801,-394.101.860.186.287
+62042,General Roca,Departamento General Roca,62,-67.554.484.164.455,-385.324.900.624.312
+22140,San Fernando,Departamento San Fernando,22,-591.157.493.078.992,-277.160.106.963.678
+74014,Belgrano,Departamento Belgrano,74,-667.150.069.507.327,-327.356.115.411.335
+58070,Los Lagos,Departamento Los Lagos,58,-714.866.965.761.944,-407.743.899.197.092
+10035,Belén,Departamento Belén,10,-669.223.774.125.099,-271.000.545.044.873
+58035,Confluencia,Departamento Confluencia,58,-687.930.144.598.811,-388.325.294.845.843
+58105,Picunches,Departamento Picunches,58,-703.729.347.665.806,-385.742.697.933.456
+58014,Añelo,Departamento Añelo,58,-690.127.575.196.277,-380.986.455.753.996
+58063,Loncopué,Departamento Loncopué,58,-703.140.568.384.535,-380.659.054.264.443
+58084,Ñorquín,Departamento Ñorquín,58,-706.777.764.142.853,-376.378.798.941.082
+10049,Capital,Departamento Capital,10,-658.362.002.957.174,-284.104.559.393.629
+10014,Ancasti,Departamento Ancasti,10,-655.038.083.174.841,-289.266.675.681.635
+58091,Pehuenches,Departamento Pehuenches,58,-694.019.520.980.894,-373.984.401.348.449
+58077,Minas,Departamento Minas,58,-707.836.605.070.546,-368.583.892.643.308
+58042,Chos Malal,Departamento Chos Malal,58,-702.862.810.211.876,-368.804.936.082.292
+26014,Cushamen,Departamento Cushamen,26,-707.120.117.319.755,-4.236.635.302.228
+78035,Lago Buenos Aires,Departamento Lago Buenos Aires,78,-706.314.100.141.799,-468.341.030.724.218
+2014,Comuna 2,Comuna 2,2,-583.948.918.118.195,-345.857.649.937.965
+2056,Comuna 8,Comuna 8,2,-58.461.944.281.059,-346.745.676.187.442
+34063,Ramón Lista,Departamento Ramón Lista,34,-621.382.049.441.497,-231.201.560.396.969
+14154,Sobremonte,Departamento Sobremonte,14,-641.428.878.947.488,-297.654.579.620.613
+86035,Banda,Departamento Banda,86,-642.098.658.068.888,-274.347.067.679.294
+6224,Chivilcoy,Partido de Chivilcoy,6,-599.584.822.196.811,-349.157.089.757.004
+82028,Villa Constitución,Departamento Villa Constitución,82,-6.085.138.406.701,-334.855.834.326.751
+26063,Mártires,Departamento Mártires,26,-672.400.230.074.032,-438.138.432.526.407
+86182,Sarmiento,Departamento Sarmiento,86,-634.461.751.488.674,-281.061.147.414.005
+78014,Deseado,Departamento Deseado,78,-680.290.787.062.148,-473.305.185.775.707
+26056,Languiñeo,Departamento Languiñeo,26,-703.484.257.364.086,-433.234.947.781.653
+86042,Belgrano,Departamento Belgrano,86,-622.187.677.325.403,-290.813.959.929.051
+86007,Aguirre,Departamento Aguirre,86,-625.153.416.521.407,-292.978.682.731.406
+2098,Comuna 14,Comuna 14,2,-584.222.211.632.133,-345.738.372.943.158
+86084,Guasayán,Departamento Guasayán,86,-648.711.532.150.043,-279.767.710.254.958
+14014,Capital,Departamento Capital,14,-641.832.168.468.628,-314.170.686.019.036
+10028,Antofagasta de la Sierra,Departamento Antofagasta de la Sierra,10,-676.777.645.009.401,-259.455.797.002.151
+50091,San Carlos,Departamento San Carlos,50,-690.977.010.128.957,-340.753.663.960.754
+26035,Futaleufú,Departamento Futaleufú,26,-714.553.756.889.394,-43.070.540.741.803
+78049,Río Chico,Departamento Río Chico,78,-711.138.374.982.594,-482.873.290.186.499
+78028,Lago Argentino,Departamento Lago Argentino,78,-720.654.713.338.211,-498.364.881.431.632
+62035,El Cuy,Departamento El Cuy,62,-684.845.953.824.055,-397.016.431.663.172
+50049,Las Heras,Departamento Las Heras,50,-6.926.717.572.394,-325.247.668.775.446
+50056,Lavalle,Departamento Lavalle,50,-678.890.727.049.671,-32.582.585.367.751
+62063,Pichi Mahuida,Departamento Pichi Mahuida,62,-644.005.868.582.138,-394.076.832.777.441
+62007,Adolfo Alsina,Departamento Adolfo Alsina,62,-63.765.086.491.035,-407.917.543.082.478
+2021,Comuna 3,Comuna 3,2,-584.026.514.512.217,-346.138.430.816.863
+86049,Capital,Departamento Capital,86,-644.356.675.404.002,-278.847.652.276.316
+6287,General Alvear,Partido de General Alvear,6,-601.333.612.561.516,-360.345.220.351.902
+86105,Loreto,Departamento Loreto,86,-643.107.274.308.234,-286.244.804.367.569
+30113,Villaguay,Departamento Villaguay,30,-590.594.708.104.081,-316.477.388.963.494
+6168,Castelli,Partido de Castelli,6,-576.570.625.692.977,-36.041.669.400.313
+30088,San Salvador,Departamento San Salvador,30,-584.863.728.567.996,-315.768.835.387.468
+6028,Almirante Brown,Partido de Almirante Brown,6,-583.673.978.494.737,-348.355.700.988.623
+30077,Nogoyá,Departamento Nogoyá,30,-597.697.019.155.424,-322.187.123.475.252
+30091,Tala,Departamento Tala,30,-592.672.864.855.269,-323.174.117.217.417
+30070,La Paz,Departamento La Paz,30,-595.004.488.104.579,-308.974.563.498.339
+22147,San Lorenzo,Departamento San Lorenzo,22,-603.646.185.068.028,-273.950.475.960.133
+6441,La Plata,Partido de La Plata,6,-580.180.274.992.052,-350.034.938.070.318
+6119,Brandsen,Partido de Brandsen,6,-581.760.719.473.086,-352.221.104.711.751
+6854,25 de mayo,Partido de 25 de Mayo,6,-602.301.576.569.223,-355.265.113.228.112
+6609,Pehuajó,Partido de Pehuajó,6,-619.271.985.156.994,-358.833.833.438.579
+6301,General Belgrano,Partido de General Belgrano,6,-586.980.461.310.919,-358.349.745.328.235
+10042,Capayán,Departamento Capayán,10,-659.015.706.538.014,-289.092.326.420.174
+6547,Monte,Partido de Monte,6,-587.694.635.013.319,-355.103.702.936.319
+6693,Roque Pérez,Partido de Roque Pérez,6,-593.595.940.527.063,-354.811.110.714.388
+6638,Pilar,Partido de Pilar,6,-589.034.413.925.773,-344.481.990.221.196
+6497,Luján,Partido de Luján,6,-591.585.123.543.241,-345.676.194.636.906
+6049,Azul,Partido de Azul,6,-5.969.665.215.894,-367.857.719.233.293
+54035,Concepción,Departamento Concepción,54,-554.670.364.911.295,-279.311.673.936.983
+6539,Merlo,Partido de Merlo,6,-587.418.777.656.329,-347.108.867.791.705
+6210,Chacabuco,Partido de Chacabuco,6,-603.539.279.007.252,-346.184.039.263.126
+6161,Carmen de Areco,Partido de Carmen de Areco,6,-598.842.434.040.917,-344.067.983.092.213
+6364,General Rodríguez,Partido de General Rodríguez,6,-589.879.503.249.052,-346.503.494.927.057
+6266,Exaltación de la Cruz,Partido de Exaltación de la Cruz,6,-591.559.117.007.684,-342.951.491.690.699
+6760,San Miguel,Partido de San Miguel,6,-586.917.055.208.826,-345.520.919.648.351
+6728,San Andrés de Giles,Partido de San Andrés de Giles,6,-594.732.938.848.478,-344.377.851.586.384
+6413,Junín,Partido de Junín,6,-610.054.940.705.488,-34.546.128.336.039
+6525,Marcos Paz,Partido de Marcos Paz,6,-588.480.634.347.315,-348.137.199.832.046
+14056,Juárez Celman,Departamento Juárez Celman,14,-636.063.356.482.423,-33.329.445.846.674
+42084,Lihuel Calel,Departamento Lihuel Calel,42,-650.966.303.997.922,-382.616.553.827.262
+6532,Mercedes,Partido de Mercedes,6,-5.942.081.198.401,-346.971.944.325.993
+22039,2 de abril,Departamento 2 de Abril,22,-613.295.201.872.432,-276.219.112.869.485
+6408,Hurlingham,Partido de Hurlingham,6,-586.496.943.606.349,-345.992.140.053.733
+6568,Morón,Partido de Morón,6,-586.198.433.488.168,-346.491.410.653.179
+6371,Ciudad Libertador San Martín,Partido de Ciudad Libertador San Martín,6,-585.643.145.358.763,-345.526.490.761.118
+66084,La Candelaria,Departamento La Candelaria,66,-651.765.900.958.914,-260.838.657.971.757
+6410,Ituzaingó,Partido de Ituzaingó,6,-586.887.583.352.667,-346.360.018.167.543
+82063,La Capital,Departamento La Capital,82,-606.694.790.125.744,-314.753.563.662.874
+18168,Santo Tomé,Departamento Santo Tomé,18,-56.222.206.072.693,-282.311.093.523.606
+18126,Saladas,Departamento Saladas,18,-586.199.065.693.295,-282.124.729.464.641
+18063,General Paz,Departamento General Paz,18,-577.876.196.199.145,-277.199.243.812.297
+6784,Suipacha,Partido de Suipacha,6,-597.034.737.442.182,-347.485.629.683.304
+6840,Tres de Febrero,Partido de Tres de Febrero,6,-585.790.926.022.347,-345.959.797.363.173
+46028,Coronel Felipe Varela,Departamento Coronel Felipe Varela,46,-683.284.822.964.489,-29.449.795.605.204
+6021,Alberti,Partido de Alberti,6,-602.828.693.081.193,-350.363.817.959.326
+6434,Lanús,Partido de Lanús,6,-583.954.484.986.693,-347.057.824.914.432
+6329,General Las Heras,Partido de General Las Heras,6,-589.958.733.938.567,-349.094.258.328.137
+6490,Lomas de Zamora,Partido de Lomas de Zamora,6,-58.424.078.867.213,-347.554.708.441.214
+6574,Navarro,Partido de Navarro,6,-59.429.785.480.408,-350.304.083.582.525
+6134,Cañuelas,Partido de Cañuelas,6,-586.907.790.273.655,-351.450.252.367.714
+66063,Guachipas,Departamento Guachipas,66,-654.445.360.285.708,-257.029.508.773.623
+66021,Cafayate,Departamento Cafayate,66,-658.800.888.963.475,-261.255.099.823.638
+6483,Lobos,Partido de Lobos,6,-591.458.071.242.931,-352.195.598.528.609
+6658,Quilmes,Partido de Quilmes,6,-582.768.874.201.614,-347.350.141.996.909
+6630,Pila,Partido de Pila,6,-583.408.970.254.988,-362.023.512.628.961
+6322,General La Madrid,Partido de General La Madrid,6,-613.442.438.803.068,-373.557.097.661.663
+6105,Bolívar,Partido de San Bolívar,6,-611.496.836.148.108,-362.982.217.499.893
+6063,Balcarce,Partido de Balcarce,6,-582.720.776.945.726,-377.142.728.188.627
+6406,Hipólito Yrigoyen,Partido de Hipólito Yrigoyen,6,-616.600.936.665.535,-362.593.312.232.241
+6238,Dolores,Partido de Dolores,6,-576.326.112.997.092,-363.986.615.531.875
+6847,Tres Lomas,Partido de Tres Lomas,6,-628.634.418.902.354,-364.973.152.716.526
+6042,Ayacucho,Partido de Ayacucho,6,-58.442.581.327.328,-370.347.821.696.395
+18007,Bella Vista,Departamento Bella Vista,18,-58.930.436.271.179,-284.973.936.042.369
+22161,Tapenagá,Departamento Tapenagá,22,-598.288.687.407.326,-276.598.759.889.301
+30015,Concordia,Departamento Concordia,30,-58.237.869.689.912,-312.902.983.723.403
+30035,Federal,Departamento Federal,30,-588.918.600.477.837,-309.924.267.797.136
+30056,Gualeguaychú,Departamento Gualeguaychú,30,-587.857.904.865.089,-330.223.492.433.906
+30063,Islas del Ibicuy,Departamento Islas del Ibicuy,30,-589.351.580.556.436,-336.241.288.152.628
+6351,General Pinto,Partido de General Pinto,6,-620.397.484.845.208,-346.683.135.254.839
+6399,Guaminí,Partido de Guaminí,6,-624.187.740.896.092,-368.905.500.665.858
+6035,Avellaneda,Partido de Avellaneda,6,-58.341.116.892.125,-346.782.056.572.194
+70021,Calingasta,Departamento Calingasta,70,-698.338.001.250.755,-31.453.365.238.609
+70126,25 de mayo,Departamento 25 de Mayo,70,-678.274.038.981.039,-319.896.198.487.776
+6175,Colón,Partido de Colón,6,-610.633.674.925.405,-338.860.220.920.375
+6742,San Cayetano,Partido de San Cayetano,6,-595.866.369.475.028,-383.886.180.658.492
+6833,Tres Arroyos,Partido de Tres Arroyos,6,-602.376.664.741.026,-385.116.665.533.312
+86070,Figueroa,Departamento Figueroa,86,-635.796.320.220.819,-273.218.567.500.252
+6700,Saavedra,Partido de Saavedra,6,-624.351.452.974.673,-377.710.550.160.995
+6553,Monte Hermoso,Partido de Monte Hermoso,6,-612.904.738.793.276,-3.896.257.223.668
+6476,Lobería,Partido de Lobería,6,-586.939.656.644.915,-380.897.033.467.581
+6098,Berisso,Partido de Berisso,6,-578.283.887.071.779,-34.909.463.480.255
+6812,Tordillo,Partido de Tordillo,6,-572.746.828.657.242,-363.908.002.975.414
+6665,Ramallo,Partido de Ramallo,6,-600.574.845.905.723,-335.872.972.390.017
+6763,San Nicolás,Partido de San Nicolás,6,-60.292.953.731.623,-334.825.541.340.452
+86119,Moreno,Departamento Moreno,86,-624.633.306.370.511,-272.981.373.849.478
+6308,General Guido,Partido de General Guido,6,-579.957.841.120.045,-366.659.831.488.299
+22028,Chacabuco,Departamento Chacabuco,22,-613.088.910.569.936,-271.179.308.909.271
+50028,Guaymallén,Departamento Guaymallén,50,-687.323.728.513.948,-328.910.429.154.042
+66028,Capital,Departamento Capital,66,-652.702.656.216.248,-248.902.273.126.574
+22168,25 de mayo,Departamento 25 de Mayo,22,-600.187.693.847.422,-268.190.298.006.571
+6203,Coronel Suárez,Partido de Coronel Suárez,6,-618.893.137.767.698,-375.325.532.169.014
+6189,Coronel Dorrego,Partido de Coronel Dorrego,6,-610.956.539.726.773,-386.704.811.465.081
+6581,Necochea,Partido de Necochea,6,-591.673.660.597.249,-382.555.189.703.716
+46105,Independencia,Departamento Independencia,46,-673.355.202.231.145,-301.144.612.462.884
+50070,Maipú,Departamento Maipú,50,-686.521.739.904.164,-329.775.099.458.466
+50007,Capital,Departamento Capital,50,-688.921.657.602.392,-328.806.541.047.985
+50021,Godoy Cruz,Departamento Godoy Cruz,50,-688.890.844.545.155,-329.297.600.556.689
+10021,Andalgalá,Departamento Andalgalá,10,-663.560.062.057.426,-275.445.087.646.164
+10007,Ambato,Departamento Ambato,10,-659.222.983.796.596,-280.189.344.685.483
+6056,Bahía Blanca,Partido de Bahía Blanca,6,-621.656.895.327.094,-385.808.546.732.895
+6280,General Alvarado,Partido de General Alvarado,6,-580.722.485.722.113,-382.027.130.466.251
+6357,General Pueyrredón,Partido de General Pueyrredón,6,-57.743.144.039.076,-379.656.760.017.008
+6518,Mar Chiquita,Partido de Mar Chiquita,6,-576.436.183.302.355,-374.984.341.235.843
+6868,Villa Gesell,Partido de Villa Gesell,6,-570.658.445.979.783,-373.705.193.886.837
+50035,Junín,Departamento Junín,50,-684.803.420.038.399,-331.462.075.241.433
+46021,Castro Barros,Departamento Castro Barros,46,-669.185.847.556.269,-288.599.829.479.001
+22133,Quitilipi,Departamento Quitilipi,22,-601.735.021.538.447,-266.685.132.272.644
+6644,Pinamar,Partido de Pinamar,6,-568.696.753.966.329,-371.099.458.706.882
+6336,General Lavalle,Partido de General Lavalle,6,-569.422.695.810.513,-366.518.890.129.521
+6420,La Costa,Partido de La Costa,6,-567.189.105.094.625,-366.782.018.297.724
+6505,Magdalena,Partido de Magdalena,6,-576.863.916.156.026,-351.849.498.629.024
+46126,Sanagasta,Departamento Sanagasta,46,-670.658.836.337.793,-291.585.269.700.688
+6861,Vicente López,Partido de Vicente López,6,-585.044.695.897.767,-345.265.131.808.416
+46042,Chilecito,Departamento Chilecito,46,-674.278.867.891.974,-293.959.374.753.391
+22119,Presidencia de la Plaza,Departamento Presidencia de la Plaza,22,-597.751.691.822.068,-270.468.199.682.862
+30105,Victoria,Departamento Victoria,30,-602.180.700.309.804,-327.839.424.597.327
+46056,General Ángel V. Peñaloza,Departamento General Ángel V. Peñaloza,46,-666.630.521.188.972,-303.128.975.389.814
+30021,Diamante,Departamento Diamante,30,-605.239.335.894.137,-32.228.040.548.998
+30098,Uruguay,Departamento Uruguay,30,-585.822.661.421.638,-324.499.666.887.673
+30084,Paraná,Departamento Paraná,30,-60.041.174.481.445,-316.952.294.494.435
+6707,Saladillo,Partido de Saladillo,6,-597.037.033.020.054,-356.765.966.680.226
+6455,Las Flores,Partido de Las Flores,6,-591.769.657.671.576,-360.157.017.377.305
+6686,Rojas,Partido de Rojas,6,-607.879.706.568.364,-341.926.035.952.586
+6252,Escobar,Partido de Escobar,6,-587.711.281.467.385,-343.287.181.500.871
+6623,Pergamino,Partido de Pergamino,6,-605.450.748.689.588,-33.835.815.535.365
+46070,General Juan F. Quiroga,Departamento General Juan F. Quiroga,46,-66.868.104.514.456,-30.800.959.034.536
+90063,Lules,Departamento Lules,90,-654.310.597.836.071,-268.624.408.970.891
+90119,Yerba Buena,Departamento Yerba Buena,90,-653.424.091.314.535,-267.861.906.133.402
+90105,Tafí Viejo,Departamento Tafí Viejo,90,-654.634.432.127.741,-266.607.281.369.398
+90007,Burruyacú,Departamento Burruyacú,90,-648.198.149.704.644,-265.309.358.872.581
+46112,Rosario Vera Peñaloza,Departamento Rosario Vera Peñaloza,46,-666.788.621.651.991,-314.205.977.732.086
+82133,Vera,Departamento Vera,82,-604.135.430.497.849,-289.699.286.424.835
+82077,9 de julio,Departamento 9 de Julio,82,-613.983.535.538.115,-28.849.605.091.735
+70049,Iglesia,Departamento Iglesia,70,-69.437.949.892.691,-296.066.873.518.726
+70119,Valle Fértil,Departamento Valle Fértil,70,-675.323.035.648.395,-307.122.962.694.155
+70112,Ullum,Departamento Ullum,70,-688.815.821.606.005,-310.904.647.062.097
+70007,Albardón,Departamento Albardón,70,-684.519.807.662.306,-312.096.344.810.555
+70133,Zonda,Departamento Zonda,70,-689.555.709.233.027,-316.381.980.593.912
+74042,Gobernador Dupuy,Departamento Gobernador Dupuy,74,-658.148.193.795.656,-35.369.087.077.487
+66014,Cachi,Departamento Cachi,66,-662.030.292.859.746,-25.038.234.468.241
+66042,Chicoana,Departamento Chicoana,66,-656.059.279.182.319,-251.514.718.801.816
+66098,La Viña,Departamento La Viña,66,-655.807.612.448.506,-254.475.878.403.232
+6672,Rauch,Partido de Rauch,6,-589.444.061.302.172,-365.722.509.524.193
+66112,Metán,Departamento Metán,66,-64.588.141.248.868,-254.251.673.018.384
+66119,Molinos,Departamento Molinos,66,-664.549.057.919.868,-255.643.605.125.424
+6721,Salliqueló,Partido de Salliqueló,6,-630.491.259.803.334,-366.710.137.553.167
+6091,Berazategui,Partido de Berazategui,6,-581.552.626.920.478,-348.179.736.855.733
+66049,General Güemes,Departamento General Güemes,66,-649.560.952.507.157,-247.648.231.076.768
+66154,San Carlos,Departamento San Carlos,66,-661.742.423.008.628,-258.276.863.599.322
+42126,Rancul,Departamento Rancul,42,-648.014.904.385.407,-354.015.889.145.024
+42035,Conhelo,Departamento Conhelo,42,-645.106.030.260.375,-360.315.435.775.022
+10063,Fray Mamerto Esquiú,Departamento Fray Mamerto Esquiú,10,-657.309.008.581.155,-283.329.401.551.221
+46084,General Ocampo,Departamento General Ocampo,46,-660.590.548.632.025,-310.066.417.359.043
+6648,Presidente Perón,Partido de Presidente Perón,6,-58.398.091.246.683,-349.298.313.021.932
+62049,9 de julio,Departamento 9 de julio,62,-674.574.905.887.938,-409.256.367.295.503
+46091,General San Martín,Departamento General San Martín,46,-661.459.756.728.153,-316.413.069.709.194
+86021,Atamisqui,Departamento Atamisqui,86,-638.815.639.978.494,-286.918.181.694.465
+6182,Coronel de Marina Leonardo Rosales,Partido de Coronel de Marina Leonardo Rosales,6,-618.360.446.581.448,-388.488.346.485.235
+46049,Famatina,Departamento Famatina,46,-675.592.920.371.088,-286.973.037.998.771
+22077,Libertad,Departamento Libertad,22,-592.606.339.567.401,-273.511.465.491.091
+94011,Tolhuin,Departamento Río Grande,94,-675.034.849.431.886,-544.245.608.958.778
+46119,San Blas de Los Sauces,Departamento San Blas de Los Sauces,46,-671.581.530.651.936,-285.433.309.063.736
+82035,Garay,Departamento Garay,82,-60.125.807.734.045,-310.546.413.323.001
+82070,Las Colonias,Departamento Las Colonias,82,-611.094.808.024.842,-313.153.379.046.182
+42133,Realicó,Departamento Realicó,42,-642.102.269.263.624,-352.257.917.366.713
+34014,Formosa,Departamento Formosa,34,-583.773.174.492.554,-259.396.352.318.956
+10077,Paclín,Departamento Paclín,10,-656.738.760.483.046,-281.100.496.216.627
+10056,El Alto,Departamento El Alto,10,-653.599.245.662.077,-28.430.382.930.044
+22021,Comandante Fernández,Departamento Comandante Fernández,22,-604.618.654.287.039,-267.871.365.610.548
+6462,Leandro N. Alem,Partido de Leandro N. Alem,6,-6.161.293.092.454,-344.979.563.497.613
+22049,General Belgrano,Departamento General Belgrano,22,-61.071.967.717.894,-26.849.534.277.685
+22056,General Donovan,Departamento General Donovan,22,-593.474.877.785.089,-271.409.287.639.679
+26098,Tehuelches,Departamento Tehuelches,26,-705.768.950.488.331,-442.000.353.406.651
+26021,Escalante,Departamento Escalante,26,-677.087.570.024.311,-45.282.788.434.735
+14049,Ischilín,Departamento Ischilín,14,-646.094.899.792.791,-303.997.182.320.053
+14168,Totoral,Departamento Totoral,14,-639.842.524.222.316,-307.261.313.372.803
+14042,General San Martín,Departamento General San Martín,14,-632.562.237.062.848,-325.143.341.151.357
+14133,San Javier,Departamento San Javier,14,-651.421.073.770.609,-320.753.882.467.214
+6294,General Arenales,Partido de General Arenales,6,-612.838.006.242.346,-34.237.459.671.314
+6679,Rivadavia,Partido de Rivadavia,6,-630.945.777.162.156,-355.809.627.302.368
+2063,Comuna 9,Comuna 9,2,-584.991.151.516.538,-346.517.602.348.111
+70014,Angaco,Departamento Angaco,70,-681.319.625.798.128,-311.922.192.642.063
+70035,Caucete,Departamento Caucete,70,-675.458.594.420.512,-31.506.381.702.579
+58098,Picún Leufú,Departamento Picún Leufú,58,-694.271.919.918.532,-394.039.894.660.668
+58007,Aluminé,Departamento Aluminé,58,-710.463.179.632.497,-391.314.863.536.049
+26091,Sarmiento,Departamento Sarmiento,26,-690.028.353.555.711,-453.450.235.273.933
+6343,General Paz,Partido de General Paz,6,-583.900.057.061.752,-354.662.020.729.313
+18154,San Miguel,Departamento San Miguel,18,-57.409.985.810.344,-278.758.228.176.186
+2049,Comuna 7,Comuna 7,2,-584.518.868.569.844,-346.365.544.143.719
+62091,25 de mayo,Departamento 25 de Mayo,62,-689.063.154.547.507,-411.330.823.086.991
+2070,Comuna 10,Comuna 10,2,-585.028.179.980.211,-346.278.516.942.726
+94028,Antártida Argentina,Departamento Antártida Argentina,94,-506.450.428.018.267,-827.834.172.335.301
+94021,Islas del Atlántico Sur,Departamento Islas del Atlántico Sur,94,-530.409.118.433.889,-528.527.307.050.346
+26105,Telsen,Departamento Telsen,26,-671.769.071.477.022,-424.389.445.468.027
+2077,Comuna 11,Comuna 11,2,-584.967.418.386.195,-346.061.369.839.531
+6735,San Antonio de Areco,Partido de San Antonio de Areco,6,-595.193.792.218.302,-342.206.591.685.119
+6560,Moreno,Partido de Moreno,6,-588.109.232.680.035,-34.610.617.117.824
+6427,La Matanza,Partido de La Matanza,6,-586.254.486.939.189,-347.701.647.288.569
+62070,Pilcaniyeu,Departamento Pilcaniyeu,62,-704.626.919.728.142,-408.875.778.145.279
+86126,Ojo de Agua,Departamento Ojo de Agua,86,-640.149.932.737.063,-293.040.900.587.554
+6466,Lezama,Partido de Lezama,6,-5.789.575.256.553,-358.494.190.496.267
+6655,Punta Indio,Partido de Punta Indio,6,-573.996.034.519.105,-354.261.581.087.913
+38014,El Carmen,Departamento El Carmen,38,-651.011.266.142.907,-24.447.823.040.536
+10091,Santa María,Departamento Santa María,10,-662.618.848.691.237,-267.859.032.829.476
+26042,Gaiman,Departamento Gaiman,26,-66.172.162.203.297,-432.727.624.456.965
+46077,General Lamadrid,Departamento General Lamadrid,46,-686.977.547.342.214,-287.904.353.562.793
+14077,Pocho,Departamento Pocho,14,-654.384.772.539.188,-314.634.407.170.853
+18070,Goya,Departamento Goya,18,-59.255.912.536.825,-294.514.531.616.824
+18091,Lavalle,Departamento Lavalle,18,-589.337.155.943.843,-289.879.963.080.686
+18161,San Roque,Departamento San Roque,18,-586.130.197.699.847,-287.057.979.959.044
+2042,Comuna 6,Comuna 6,2,-584.435.682.280.605,-346.168.433.901.108
+14175,Tulumba,Departamento Tulumba,14,-638.118.051.923.902,-302.222.689.247.998
+14028,Cruz del Eje,Departamento Cruz del Eje,14,-650.774.738.750.322,-306.580.631.596.452
+14091,Punilla,Departamento Punilla,14,-645.861.516.801.457,-312.225.592.168.079
+14070,Minas,Departamento Minas,14,-654.111.896.095.111,-310.355.515.814.319
+62084,Valcheta,Departamento Valcheta,62,-663.108.866.018.754,-409.745.810.611.866
+62077,San Antonio,Departamento San Antonio,62,-653.712.468.150.427,-409.527.925.288.953
+6616,Pellegrini,Partido de Pellegrini,6,-632.257.388.675.861,-362.709.141.317.271
+22105,9 de julio,Departamento 9 de Julio,22,-612.652.576.678.175,-269.455.386.975.653
+66077,La Caldera,Departamento La Caldera,66,-654.300.986.417.702,-245.623.945.143.611
+50105,San Rafael,Departamento San Rafael,50,-683.826.783.125.854,-349.445.449.681.903
+66007,Anta,Departamento Anta,66,-638.400.961.373.676,-248.751.339.637.689
+46063,General Belgrano,Departamento General Belgrano,46,-659.316.310.510.947,-305.776.916.502.152
+86056,Copo,Departamento Copo,86,-627.304.991.775.974,-259.392.514.746.819
+46098,Vinchina,Departamento Vinchina,46,-68.525.398.463.115,-283.164.203.776.524
+58056,Lácar,Departamento Lácar,58,-711.842.517.277.166,-403.142.303.514.009
+2091,Comuna 13,Comuna 13,2,-584.540.058.768.299,-345.542.357.921.934
+78021,Güer Aike,Departamento Güer Aike,78,-705.618.155.470.895,-514.134.125.040.273
+94008,Río Grande,Departamento Río Grande,94,-681.361.046.546.959,-537.462.919.872.259
+94015,Ushuaia,Departamento Ushuaia,94,-666.837.162.279.656,-547.704.623.704.114
+50077,Malargüe,Departamento Malargüe,50,-693.135.099.463.311,-361.572.730.441.871
+10084,Pomán,Departamento Pomán,10,-664.072.986.488.285,-282.055.993.966.253
+90035,Graneros,Departamento Graneros,90,-652.554.821.697.556,-27.713.461.665.638
+66140,Rosario de la Frontera,Departamento Rosario de la Frontera,66,-647.278.906.135.036,-258.718.676.537.564
+26070,Paso de Indios,Departamento Paso de Indios,26,-686.858.628.378.391,-440.301.843.800.804
+22007,Almirante Brown,Departamento Almirante Brown,22,-619.605.236.304.385,-25.747.858.341.484
+10112,Valle Viejo,Departamento Valle Viejo,10,-657.071.834.454.567,-285.987.132.205.968
+22091,Maipú,Departamento Maipú,22,-604.553.482.590.556,-263.210.291.409.673
+86161,Robles,Departamento Robles,86,-639.075.092.603.179,-278.539.440.726.125
+30008,Colón,Departamento Colón,30,-583.699.129.592.754,-320.114.827.529.012
+50119,Tunuyán,Departamento Tunuyán,50,-695.078.054.633.807,-336.223.342.938.194
+50063,Luján de Cuyo,Departamento Luján de Cuyo,50,-694.437.142.136.667,-330.382.520.812.765
+26084,Río Senguer,Departamento Río Senguer,26,-706.400.981.523.958,-453.403.562.037.762
+62021,Bariloche,Departamento Bariloche,62,-71.531.077.517.069,-414.981.211.976.981
+58049,Huiliches,Departamento Huiliches,58,-712.590.025.540.125,-397.946.776.781.363
+58021,Catán Lil,Departamento Catán Lil,58,-704.335.593.332.799,-394.807.942.918.938
+58028,Collón Curá,Departamento Collón Curá,58,-702.813.499.391.274,-400.529.195.538.789
+6154,Carlos Tejedor,Partido de Carlos Tejedor,6,-624.295.611.893.429,-35.379.488.920.773
+6077,Arrecifes,Partido de Arrecifes,6,-600.627.625.274.553,-340.113.151.746.224
+6140,Capitán Sarmiento,Partido de Capitán Sarmiento,6,-598.548.037.960.898,-341.497.065.018.665
+6714,Salto,Partido de Salto,6,-60.305.182.566.345,-342.708.350.525.697
+30049,Gualeguay,Departamento Gualeguay,30,-596.016.234.890.441,-331.199.026.931.696
+30028,Federación,Departamento Federación,30,-581.591.541.174.073,-307.348.931.499.453
+30042,Feliciano,Departamento Feliciano,30,-587.287.958.918.597,-304.139.444.642.315
+6588,9 de julio,Partido de 9 de Julio,6,-609.751.157.295.027,-35.481.190.578.256
+6826,Trenque Lauquen,Partido de Trenque Lauquen,6,-626.346.332.497.416,-360.564.352.739.976
+6147,Carlos Casares,Partido de Carlos Casares,6,-613.737.522.686.863,-357.496.551.260.772
+6595,Olavarría,Partido de Olavarría,6,-606.707.349.373.354,-368.567.012.129.546
+6260,Esteban Echeverría,Partido de Esteban Echeverría,6,-58.476.969.025.414,-348.312.099.703.342
+6385,General Viamonte,Partido de General Viamonte,6,-610.501.968.347.291,-34.997.569.924.782
+6515,Malvinas Argentinas,Partido de Malvinas Argentinas,6,-587.121.329.971.982,-344.873.038.284.663
+6469,Lincoln,Partido de Lincoln,6,-616.827.618.200.122,-35.070.384.883.326
+6798,Tapalqué,Partido de Tapalqué,6,-601.308.804.386.321,-363.471.383.108.251
+42140,Toay,Departamento Toay,42,-646.922.110.146.556,-366.621.621.527.055
+18112,Monte Caseros,Departamento Monte Caseros,18,-578.702.855.877.153,-302.289.552.221.138
+6112,Bragado,Partido de Bragado,6,-606.042.295.511.118,-350.610.928.531.071
+6270,José M. Ezeiza,Partido de José M. Ezeiza,6,-585.648.395.364.287,-348.758.213.531.443
+42042,Curacó,Departamento Curacó,42,-663.301.334.719.636,-381.797.375.458.882
+42091,Limay Mahuida,Departamento Limay Mahuida,42,-66.555.232.691.641,-372.419.021.199.786
+42112,Puelén,Departamento Puelén,42,-676.049.641.366.153,-374.341.807.808.756
+6274,Florencio Varela,Partido de Florencio Varela,6,-582.586.377.649.204,-348.778.729.879.112
+86189,Silípica,Departamento Silípica,86,-642.732.683.808.708,-281.888.486.587.603
+54119,25 de mayo,Departamento 25de Mayo,54,-54.634.090.486.794,-273.786.143.623.767
+6778,San Vicente,Partido de San Vicente,6,-584.319.219.645.129,-350.704.596.398.936
+6231,Daireaux,Partido de Daireaux,6,-61.891.417.127.905,-366.405.459.243.249
+70063,9 de julio,Departamento 9 de Julio,70,-683.890.526.964.703,-316.458.046.846.082
+70077,Rawson,Departamento Rawson,70,-684.675.631.318.926,-316.865.858.135.558
+6245,Ensenada,Partido de Ensenada,6,-579.789.322.377.767,-348.422.541.242.657
+6448,Laprida,Partido de Laprida,6,-607.680.626.719.213,-375.155.525.089.772
+6756,San Isidro,Partido de San Isidro,6,-585.372.648.522.523,-344.869.499.670.191
+6084,Benito Juárez,Partido de Benito Juárez,6,-598.883.008.698.795,-37.585.278.315.595
+38056,San Antonio,Departamento San Antonio,38,-654.468.528.811.404,-243.467.258.804.414
+22084,Libertador General San Martín,Departamento Libertador General San Martín,22,-594.878.778.128.786,-263.785.169.756.021
+26049,Gastre,Departamento Gastre,26,-68.802.322.331.286,-427.490.685.142.491
+6749,San Fernando,Partido de San Fernando,6,-585.459.540.333.809,-341.512.700.249.506
+6882,Zárate,Partido de Zárate,6,-591.284.709.610.169,-339.971.401.820.257
+86168,Salavina,Departamento Salavina,86,-633.035.949.540.839,-289.187.435.892.712
+86133,Pellegrini,Departamento Pellegrini,86,-640.912.083.069.938,-262.203.346.046.951
+86028,Avellaneda,Departamento Avellaneda,86,-632.037.665.884.943,-285.553.626.652.401
+22014,Bermejo,Departamento Bermejo,22,-587.093.649.014.335,-26.958.636.224.259
+74049,Junín,Departamento Junín,74,-653.939.560.584.901,-32.216.548.125.306
+50098,San Martín,Departamento San Martín,50,-682.844.229.443.887,-329.088.785.853.185
+58112,Zapala,Departamento Zapala,58,-698.222.074.301.959,-38.922.044.155.846
+14021,Colón,Departamento Colón,14,-641.528.709.889.175,-311.440.502.226.475
+82014,Caseros,Departamento Caseros,82,-615.310.164.822.665,-332.214.972.343.879
+82084,Rosario,Departamento Rosario,82,-607.108.416.659.256,-331.278.557.358.532
+82119,San Lorenzo,Departamento San Lorenzo,82,-609.615.014.674.026,-329.423.146.043.516
+82056,Iriondo,Departamento Iriondo,82,-612.733.877.091.661,-327.060.836.088.838
+82007,Belgrano,Departamento Belgrano,82,-617.042.951.949.086,-326.103.027.395.973
+82105,San Jerónimo,Departamento San Jerónimo,82,-610.481.265.781.191,-321.537.713.586.804
+86112,Mitre,Departamento Mitre,86,-627.386.805.205.781,-296.150.659.886.474
+66161,Santa Victoria,Departamento Santa Victoria,66,-648.956.351.260.047,-223.958.266.942.337
+66056,General José de San Martín,Departamento General José de San Martín,66,-636.627.437.658.428,-227.169.492.299.382
+34049,Pilcomayo,Departamento Pilcomayo,34,-58.062.606.265.553,-253.700.377.167.627
+14105,Río Primero,Departamento Río Primero,14,-634.385.673.505.455,-310.327.992.067.991
+10105,Tinogasta,Departamento Tinogasta,10,-679.292.408.147.481,-275.405.127.310.562
+14063,Marcos Juárez,Departamento Marcos Juárez,14,-622.767.719.720.096,-33.030.846.572.143
+14007,Calamuchita,Departamento Calamuchita,14,-646.167.170.389.735,-322.027.119.466.219
+74028,Chacabuco,Departamento Chacabuco,74,-651.982.374.778.981,-327.269.672.116.015
+74056,Juan Martín de Pueyrredón,Departamento Juan Martín de Pueyrredón,74,-665.025.775.641.531,-339.008.795.169.272
+74035,General Pedernera,Departamento General Pedernera,74,-6.556.285.207.424,-338.905.514.573.194
+6602,Patagones,Partido de Patagones,6,-628.529.094.080.666,-401.973.260.070.881
+74063,Libertador General San Martín,Departamento Libertador General San Martín,74,-657.095.887.724.917,-325.784.192.360.116
+74021,Coronel Pringles,Departamento Coronel Pringles,74,-65.900.790.202.998,-331.068.820.542.746
+2007,Comuna 1,Comuna 1,2,-583.715.396.530.269,-346.064.218.855.511
+2028,Comuna 4,Comuna 4,2,-583.874.550.689.885,-346.420.794.257.822
+2035,Comuna 5,Comuna 5,2,-584.205.721.902.857,-34.617.369.923.785
+42014,Caleu Caleu,Departamento Caleu Caleu,42,-638.968.179.856.269,-386.755.832.575.061
+70056,Jáchal,Departamento Jáchal,70,-684.412.683.481.467,-303.550.759.493.245
+86140,Quebrachos,Departamento Quebrachos,86,-633.535.127.711.283,-29.382.302.416.388
+18098,Mburucuyá,Departamento Mburucuyá,18,-581.855.624.499.057,-280.163.816.801.467
+18042,Empedrado,Departamento Empedrado,18,-586.658.439.667.722,-278.961.218.833.917
+18084,Ituzaingó,Departamento Ituzaingó,18,-567.904.763.823.004,-279.114.257.175.706
+18133,San Cosme,Departamento San Cosme,18,-585.174.860.021.794,-273.823.055.047.941
+18077,Itatí,Departamento Itatí,18,-580.713.754.415.461,-273.460.562.357.383
+2084,Comuna 12,Comuna 12,2,-58.490.428.041.078,-345.662.276.065.396
+54105,San Javier,Departamento San Javier,54,-551.674.595.934.642,-277.771.031.457.714
+54007,Apóstoles,Departamento Apóstoles,54,-556.782.740.306.512,-278.888.038.850.636
+54042,Eldorado,Departamento Eldorado,54,-544.407.363.386.818,-263.138.449.973.517
+54112,San Pedro,Departamento San Pedro,54,-539.629.779.665.021,-266.299.609.405.552
+54084,Montecarlo,Departamento Montecarlo,54,-545.631.774.073.677,-266.579.081.276.292
+6217,Chascomús,Partido de Chascomús,6,-579.043.202.817.554,-356.187.689.428.966
+2105,Comuna 15,Comuna 15,2,-584.627.740.218.828,-345.918.836.701.565
+86175,San Martín,Departamento San Martín,86,-63.854.114.579.231,-281.877.612.837.658
+86091,Jiménez,Departamento Jiménez,86,-642.725.159.118.858,-26.899.591.169.452
+6070,Baradero,Partido de Baradero,6,-594.929.504.876.902,-339.321.914.567.436
+38028,Humahuaca,Departamento Humahuaca,38,-654.089.124.214.828,-230.821.382.910.047
+38112,Yaví,Departamento Yaví,38,-655.669.616.842.196,-222.906.705.371.725
+38077,Santa Catalina,Departamento Santa Catalina,38,-66.227.664.877.192,-22.137.931.595.162
+38063,San Pedro,Departamento San Pedro,38,-648.110.140.944.895,-242.985.497.355.434
+38105,Valle Grande,Departamento Valle Grande,38,-650.119.194.137.172,-234.670.612.447.247
+34035,Patiño,Departamento Patiño,34,-599.585.024.741.836,-248.750.609.917.942
+34007,Bermejo,Departamento Bermejo,34,-612.828.019.983.788,-240.255.563.345.755
+38084,Susques,Departamento Susques,38,-666.617.993.267.455,-235.204.314.374.652
+66070,Iruya,Departamento Iruya,66,-649.202.186.004.952,-228.148.374.145.959
+34028,Matacos,Departamento Matacos,34,-62.076.891.256.733,-23.854.855.944.809
+66105,Los Andes,Departamento Los Andes,66,-6.734.403.275.869,-246.424.364.614.968
+66126,Orán,Departamento Orán,66,-641.510.163.822.065,-234.987.690.402.927
+38094,Tilcara,Departamento Tilcara,38,-653.197.513.527.091,-23.560.543.852.464
+38042,Palpalá,Departamento Palpalá,38,-651.264.498.289.923,-241.949.225.444.459
+38007,Cochinoca,Departamento Cochinoca,38,-659.346.878.202.021,-229.392.350.234.639
+38098,Tumbaya,Departamento Tumbaya,38,-65.696.096.204.681,-237.434.725.633.393
+38021,Dr. Manuel Belgrano,Departamento Dr. Manuel Belgrano,38,-654.484.768.876.505,-240.893.413.107.767
+38070,Santa Bárbara,Departamento Santa Bárbara,38,-644.023.110.880.998,-240.075.465.739.997
+38049,Rinconada,Departamento Rinconada,38,-665.415.733.150.047,-226.216.157.957.901
+66091,La Poma,Departamento La Poma,66,-662.073.097.573.146,-241.468.804.221.181
+90021,Chicligasta,Departamento Chicligasta,90,-658.110.121.945.484,-272.695.777.554.986
+90070,Monteros,Departamento Monteros,90,-656.431.429.705.926,-271.106.075.164.054
+90056,Leales,Departamento Leales,90,-650.850.078.123.385,-271.918.024.636.989
+90028,Famaillá,Departamento Famaillá,90,-654.789.798.424.484,-269.759.879.123.642
+90084,Capital,Departamento Capital,90,-652.174.963.397.207,-26.832.724.441.173
+90014,Cruz Alta,Departamento Cruz Alta,90,-649.757.343.718.485,-269.182.437.174.427
+90112,Trancas,Departamento Trancas,90,-654.054.839.941.384,-263.432.601.177.699
+90098,Tafí del Valle,Departamento Tafí del Valle,90,-658.894.957.616.981,-265.914.036.518.985
+82126,San Martín,Departamento San Martín,82,-618.082.508.211.602,-320.125.797.507.259
+18140,San Luis del Palmar,Departamento San Luis del Palmar,18,-582.685.422.687.085,-276.020.473.964.888
+18014,Berón de Astrada,Departamento Berón de Astrada,18,-576.113.792.118.725,-274.779.720.010.057
+82021,Castellanos,Departamento Castellanos,82,-616.569.626.868.615,-312.314.149.716.439
+82112,San Justo,Departamento San Justo,82,-604.886.940.672.765,-305.304.248.150.144
+82091,San Cristóbal,Departamento San Cristóbal,82,-61.360.015.159.641,-302.283.191.431.559
+82098,San Javier,Departamento San Javier,82,-598.980.704.738.644,-301.041.461.066.388
+82049,General Obligado,Departamento General Obligado,82,-595.266.516.978.974,-286.719.704.542.176
+70042,Chimbas,Departamento Chimbas,70,-685.239.289.662.613,-314.874.196.948.621
+70091,San Martín,Departamento San Martín,70,-682.072.931.248.825,-315.285.412.012.606
+26007,Biedma,Departamento Biedma,26,-649.332.260.287.713,-424.436.350.204.267
+6277,Florentino Ameghino,Partido de Florentino Ameghino,6,-624.013.534.701.346,-348.738.967.496.734
+26028,Florentino Ameghino,Departamento Florentino Ameghino,26,-661.300.665.443.193,-444.232.685.527.937
+90049,La Cocha,Departamento La Cocha,90,-655.981.413.742.508,-27.793.699.696.551
+90042,Juan Bautista Alberdi,Departamento Juan Bautista Alberdi,90,-657.832.035.039.246,-276.058.945.987.109
+90077,Río Chico,Departamento Río Chico,90,-657.517.295.073.354,-27.450.131.903.938
+90091,Simoca,Departamento Simoca,90,-652.918.660.955.326,-27.424.163.373.399
+82042,General López,Departamento General López,82,-619.449.986.852.751,-339.251.483.443.292
+54021,Candelaria,Departamento Candelaria,54,-555.826.897.694.998,-274.608.502.028.348
+54014,Cainguás,Departamento Cainguás,54,-54.802.339.249.309,-271.478.299.707.848
+54077,Libertador General San Martín,Departamento Libertador General San Martín,54,-549.233.629.496.583,-268.931.448.853.066
+54049,General Manuel Belgrano,Departamento General Manuel Belgrano,54,-539.636.582.644.351,-259.786.262.379.125
+54056,Guaraní,Departamento Guaraní,54,-542.693.679.741.111,-270.262.341.090.705
+70084,Rivadavia,Departamento Rivadavia,70,-686.416.232.535.812,-315.542.325.394.479
+70098,Santa Lucía,Departamento Santa Lucía,70,-684.634.116.809.574,-315.327.173.670.967
+70070,Pocito,Departamento Pocito,70,-685.842.081.096.793,-317.459.555.808.161
+70105,Sarmiento,Departamento Sarmiento,70,-68.691.135.621.109,-32.073.542.322.508
+70028,Capital,Departamento Capital,70,-685.342.856.277.406,-315.330.748.483.572
+42056,Chapaleufú,Departamento Chapaleufú,42,-636.609.121.074.931,-352.272.428.701.704
+42105,Maracó,Departamento Maracó,42,-636.624.891.520.267,-356.796.177.582.431
+18028,Concepción,Departamento Concepción,18,-58.031.384.641.798,-284.083.953.496.766
+54070,Leandro N. Alem,Departamento Leandro N. Alem,54,-553.880.677.535.388,-276.306.652.578.033
