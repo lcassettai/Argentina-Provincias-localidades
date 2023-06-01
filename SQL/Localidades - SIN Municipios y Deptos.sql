@@ -1,5 +1,5 @@
 CREATE TABLE localidades(
-   id              INTEGER  NOT NULL PRIMARY KEY 
+   id              BIGINT  NOT NULL PRIMARY KEY 
   ,nombre          VARCHAR(45) NOT NULL
   ,id_provincia    INTEGER  NOT NULL
   ,centroide_lon   VARCHAR(20) NOT NULL
